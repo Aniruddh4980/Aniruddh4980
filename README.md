@@ -3,7 +3,7 @@
 ### AI Enthusiast | Aspiring Data Scientist | Machine Learning Enthusiast
 
 🎯 Transitioning from **Automotive Design Engineering** to **Data Science & Artificial Intelligence**
-/n📍 Pune, Maharashtra, India
+📍 Pune, Maharashtra, India
 
 ## 🤝 Let's Connect
  **LinkedIn:** https://www.linkedin.com/in/aniruddhgalande/
