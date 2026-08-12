@@ -2,7 +2,7 @@
 
 ### AI Enthusiast | Aspiring Data Scientist | Machine Learning Enthusiast
 
-🎯 Transitioning from **Automotive Design Engineering** to **Data Science & Artificial Intelligence**
+🎯 Transitioning from **Automotive Design Engineering** to **Data Science & Artificial Intelligence**  
 📍 Pune, Maharashtra, India
 
 ## 🤝 Let's Connect
