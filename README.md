@@ -59,7 +59,6 @@ I'm an **AI and Data Science enthusiast** passionate about solving real-world pr
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -131,15 +130,15 @@ A Chrome Extension designed to help users stay focused and improve discipline.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniruddh4980&show_icons=true&theme=tokyonight&hide_border=true" alt="Aniruddh's GitHub Stats"/>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh4980&theme=tokyonight&hide_border=true" alt="Aniruddh's GitHub Streak"/>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh4980&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -158,10 +157,11 @@ A Chrome Extension designed to help users stay focused and improve discipline.
 
 ---
 
-<p align="center">
+<p style="text-align: center;">
   <i>Learning 📚 • Building 🛠️ • Exploring 🚀</i>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   ⭐ Feel free to explore my repositories and connect with me!
 </p>
+
