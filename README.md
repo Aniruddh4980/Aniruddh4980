@@ -2,19 +2,11 @@
 
 ### AI Enthusiast | Aspiring Data Scientist | Machine Learning Enthusiast
 
-<p>
-🎯 Transitioning from <b>Automotive Design Engineering</b> to <b>Data Science & Artificial Intelligence</b><br>
+🎯 Transitioning from **Automotive Design Engineering** to **Data Science & Artificial Intelligence**
 📍 Pune, Maharashtra, India
-</p>
 
-<p>
-  <a href="https://www.linkedin.com/in/aniruddhgalande/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aniruddh%20Galande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aniruddhgalande94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+🔗 **LinkedIn:** https://www.linkedin.com/in/aniruddhgalande/
+📧 **Email:** [aniruddhgalande94@gmail.com](mailto:aniruddhgalande94@gmail.com)
 
 ---
 
@@ -33,33 +25,26 @@ I'm an **AI and Data Science enthusiast** passionate about solving real-world pr
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-</p>
+* Python
 
-### 🤖 Data Science & Machine Learning
+### 🤖 AI, Machine Learning & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
+* Pandas
+* NumPy
+* Scikit-learn
+* SciPy
 
 ### 📊 Data Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+* Matplotlib
+* Seaborn
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-</p>
+* MySQL
+* Microsoft SQL Server (SSMS)
 
 ---
 
@@ -67,101 +52,77 @@ I'm an **AI and Data Science enthusiast** passionate about solving real-world pr
 
 ### 🏥 Healthcare Premium Prediction
 
-Machine Learning project focused on predicting healthcare insurance premiums based on relevant user and risk factors.
+A Machine Learning project focused on predicting healthcare insurance premiums based on relevant user and risk factors.
 
-🔗 **Repository:** [Healthcare-Premium-Prediction](https://github.com/Aniruddh4980/Healthcare-Premium-Prediction)
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
+🔗 **Repository:**
+[Healthcare Premium Prediction](https://github.com/Aniruddh4980/Healthcare-Premium-Prediction)
 
 ---
 
 ### 💰 Expense Tracking System
 
-An application designed to help monitor and manage expenses.
+An application designed to help users monitor and manage their expenses.
 
-🔗 **Repository:** [Expense-Tracking-System](https://github.com/Aniruddh4980/Expense-Tracking-System)
+**Tech Stack:** Python
 
-**Tech:** Python
+🔗 **Repository:**
+[Expense Tracking System](https://github.com/Aniruddh4980/Expense-Tracking-System)
 
 ---
 
 ### 📧 Gmail Agent
 
-An AI Agent designed to read emails and draft responses using contextual information.
+An AI-powered agent designed to work with emails and assist with generating contextual responses.
 
-🔗 **Repository:** [Gmail-Agent](https://github.com/Aniruddh4980/Gmail-Agent)
+**Tech Stack:** Python · AI
 
-**Tech:** Python • AI
+🔗 **Repository:**
+[Gmail Agent](https://github.com/Aniruddh4980/Gmail-Agent)
 
 ---
 
 ### 🧮 Tax Calculator App – India
 
-A tax calculator application designed for Indian salaried professionals.
+A tax calculator application designed for Indian users.
 
-🔗 **Repository:** [Tax-Calculator-App---India](https://github.com/Aniruddh4980/Tax-Calculator-App---India)
+**Tech Stack:** JavaScript
 
-**Tech:** JavaScript
+🔗 **Repository:**
+[Tax Calculator App – India](https://github.com/Aniruddh4980/Tax-Calculator-App---India)
 
 ---
 
 ### 🎯 Discipline Dashboard
 
-A Chrome Extension designed to help users stay focused and improve discipline.
+A Chrome Extension designed to help users stay focused and build better habits.
 
-🔗 **Repository:** [Discipline-Dashboard](https://github.com/Aniruddh4980/Discipline-Dashboard)
-
----
-
-## 📌 Areas I'm Exploring
-
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science & Data Analysis
-📈 Data Visualization
-🔮 Predictive Modeling
-🐍 Python Development
-🗄️ SQL & Databases
-🤝 AI Agents
-```
+🔗 **Repository:**
+[Discipline Dashboard](https://github.com/Aniruddh4980/Discipline-Dashboard)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Exploring
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddh4980&show_icons=true&theme=tokyonight&hide_border=true" alt="Aniruddh's GitHub Stats"/>
-</p>
-
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh4980&theme=tokyonight&hide_border=true" alt="Aniruddh's GitHub Streak"/>
-</p>
-
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh4980&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📊 Data Science & Data Analysis
+* 📈 Data Visualization
+* 🔮 Predictive Modeling
+* 🐍 Advanced Python
+* 🗄️ SQL & Databases
+* 🤝 AI Agents
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/aniruddhgalande/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aniruddhgalande94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+💼 **LinkedIn:** [linkedin.com/in/aniruddhgalande](https://www.linkedin.com/in/aniruddhgalande/)
+📧 **Email:** [aniruddhgalande94@gmail.com](mailto:aniruddhgalande94@gmail.com)
 
 ---
 
-<p style="text-align: center;">
-  <i>Learning 📚 • Building 🛠️ • Exploring 🚀</i>
-</p>
+### 🌱 Learning • 🛠️ Building • 🚀 Growing
 
-<p style="text-align: center;">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
-
+⭐ Feel free to explore my repositories and connect with me!
