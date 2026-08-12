@@ -5,7 +5,8 @@
 🎯 Transitioning from **Automotive Design Engineering** to **Data Science & Artificial Intelligence**
 📍 Pune, Maharashtra, India
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/aniruddhgalande/
+## 🤝 Let's Connect
+ **LinkedIn:** https://www.linkedin.com/in/aniruddhgalande/
 📧 **Email:** [aniruddhgalande94@gmail.com](mailto:aniruddhgalande94@gmail.com)
 
 ---
@@ -113,13 +114,6 @@ A Chrome Extension designed to help users stay focused and build better habits.
 * 🐍 Advanced Python
 * 🗄️ SQL & Databases
 * 🤝 AI Agents
-
----
-
-## 🤝 Let's Connect
-
-💼 **LinkedIn:** [linkedin.com/in/aniruddhgalande](https://www.linkedin.com/in/aniruddhgalande/)
-📧 **Email:** [aniruddhgalande94@gmail.com](mailto:aniruddhgalande94@gmail.com)
 
 ---
 
