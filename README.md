@@ -36,6 +36,7 @@ I'm an **AI and Data Science enthusiast** passionate about solving real-world pr
 * NumPy
 * Scikit-learn
 * SciPy
+* PyTorch
 
 ### 📊 Data Visualization
 
